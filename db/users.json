@@ -1,0 +1,23 @@
+{
+  "omar": {
+    "username": "omar",
+    "password": "TestPass123",
+    "student_type": "علمي",
+    "telegram_user_id": "5666511049",
+    "telegram_username": "omarx04",
+    "telegram_first_name": "عمـــــر",
+    "profile_photo_url": null,
+    "session_id": "319eb76b-4f1e-4e99-9785-9bc77753f563",
+    "created_at": "2026-05-07T08:34:39.602690",
+    "verified": true,
+    "last_login": "2026-05-07T08:54:38.964267",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "chemistry",
+      "physics_electric"
+    ],
+    "server_num": 1,
+    "password_changed_at": "2026-05-07T10:04:00.772536"
+  }
+}
