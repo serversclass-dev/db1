@@ -31,5 +31,16 @@
     "last_file": "p1.txt",
     "subject": "islamic",
     "saved_at": "2026-05-08T19:00:37.910569"
+  },
+  "omar__physics_mechanic": {
+    "username": "omar",
+    "subject_id": "physics_mechanic",
+    "messages": [],
+    "full_messages": [],
+    "summary": "",
+    "message_count": 0,
+    "last_file": null,
+    "subject": "physics_mechanic",
+    "saved_at": "2026-05-08T23:32:19.961355"
   }
 }
