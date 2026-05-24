@@ -48,5 +48,23 @@
       "english"
     ],
     "server_num": 1
+  },
+  "meyora": {
+    "username": "meyora",
+    "password": "RoRo012345678#",
+    "student_type": "أدبي",
+    "telegram_user_id": "8999857008",
+    "telegram_username": null,
+    "telegram_first_name": "meyora💗",
+    "profile_photo_url": null,
+    "session_id": "682eae46-466c-4793-95ca-61e49abefea4",
+    "created_at": "2026-05-24T05:48:32.949475",
+    "verified": true,
+    "last_login": "2026-05-24T07:44:11.820126",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 1
   }
 }
