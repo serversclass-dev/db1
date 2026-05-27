@@ -158,29 +158,6 @@
     "subject": "linguistic_studies",
     "saved_at": "2026-05-11T19:22:45.241693"
   },
-  "omar__physics_mechanic": {
-    "username": "omar",
-    "subject_id": "physics_mechanic",
-    "messages": [
-      {
-        "role": "user",
-        "content": "اشرح لي الفصل الأول",
-        "timestamp": "2026-05-22T21:44:13.604362+00:00"
-      }
-    ],
-    "full_messages": [
-      {
-        "role": "user",
-        "content": "اشرح لي الفصل الأول",
-        "timestamp": "2026-05-22T21:44:13.604362+00:00"
-      }
-    ],
-    "summary": "",
-    "message_count": 1,
-    "last_file": "p1.txt",
-    "subject": "physics_mechanic",
-    "saved_at": "2026-05-25T14:06:33.975603"
-  },
   "omar__physics_electric": {
     "username": "omar",
     "subject_id": "physics_electric",
@@ -244,6 +221,29 @@
     "message_count": 0,
     "last_file": null,
     "subject": "chemistry",
-    "saved_at": "2026-05-25T14:15:38.146277"
+    "saved_at": "2026-05-27T17:46:21.382586"
+  },
+  "omar__physics_mechanic": {
+    "username": "omar",
+    "subject_id": "physics_mechanic",
+    "messages": [
+      {
+        "role": "user",
+        "content": "اشرح لي الفصل الأول",
+        "timestamp": "2026-05-27T17:47:47.162784+00:00"
+      }
+    ],
+    "full_messages": [
+      {
+        "role": "user",
+        "content": "اشرح لي الفصل الأول",
+        "timestamp": "2026-05-27T17:47:47.162784+00:00"
+      }
+    ],
+    "summary": "",
+    "message_count": 0,
+    "last_file": null,
+    "subject": "physics_mechanic",
+    "saved_at": "2026-05-27T17:47:44.699142"
   }
 }
