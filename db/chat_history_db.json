@@ -212,29 +212,6 @@
     "subject": "physics_mechanic",
     "saved_at": "2026-05-27T17:47:44.699142"
   },
-  "omar__islamic": {
-    "username": "omar",
-    "subject_id": "islamic",
-    "messages": [
-      {
-        "role": "user",
-        "content": "اشرح لي الفصل الأول",
-        "timestamp": "2026-06-04T12:45:00.918933+00:00"
-      }
-    ],
-    "full_messages": [
-      {
-        "role": "user",
-        "content": "اشرح لي الفصل الأول",
-        "timestamp": "2026-06-04T12:45:00.918933+00:00"
-      }
-    ],
-    "summary": "",
-    "message_count": 1,
-    "last_file": "p1.txt",
-    "subject": "islamic",
-    "saved_at": "2026-06-04T15:04:15.622212"
-  },
   "omar__physics_electric": {
     "username": "omar",
     "subject_id": "physics_electric",
@@ -267,5 +244,16 @@
     "last_file": "main.txt",
     "subject": "physics_electric",
     "saved_at": "2026-06-04T15:23:05.545314"
+  },
+  "omar__islamic": {
+    "username": "omar",
+    "subject_id": "islamic",
+    "messages": [],
+    "full_messages": [],
+    "summary": "",
+    "message_count": 0,
+    "last_file": null,
+    "subject": "islamic",
+    "saved_at": "2026-06-04T21:00:38.434434"
   }
 }
