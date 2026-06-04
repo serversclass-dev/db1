@@ -162,13 +162,75 @@
   "omar__chemistry": {
     "username": "omar",
     "subject_id": "chemistry",
-    "messages": [],
-    "full_messages": [],
+    "messages": [
+      {
+        "role": "user",
+        "content": "اشرح لي الفصل الأول",
+        "timestamp": "2026-06-04T06:47:59.732621+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Unable to get a response after multiple attempts. Please try again.",
+        "timestamp": "2026-06-04T06:47:59.841258+00:00"
+      },
+      {
+        "role": "user",
+        "content": "Hi",
+        "timestamp": "2026-06-04T06:48:12.446998+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Unable to get a response after multiple attempts. Please try again.",
+        "timestamp": "2026-06-04T06:48:13.916280+00:00"
+      },
+      {
+        "role": "user",
+        "content": "Hhh",
+        "timestamp": "2026-06-04T06:50:23.060978+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm temporarily unavailable. Please try again in a moment.",
+        "timestamp": "2026-06-04T06:50:23.147116+00:00"
+      }
+    ],
+    "full_messages": [
+      {
+        "role": "user",
+        "content": "اشرح لي الفصل الأول",
+        "timestamp": "2026-06-04T06:47:59.732621+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Unable to get a response after multiple attempts. Please try again.",
+        "timestamp": "2026-06-04T06:47:59.841258+00:00"
+      },
+      {
+        "role": "user",
+        "content": "Hi",
+        "timestamp": "2026-06-04T06:48:12.446998+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Unable to get a response after multiple attempts. Please try again.",
+        "timestamp": "2026-06-04T06:48:13.916280+00:00"
+      },
+      {
+        "role": "user",
+        "content": "Hhh",
+        "timestamp": "2026-06-04T06:50:23.060978+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm temporarily unavailable. Please try again in a moment.",
+        "timestamp": "2026-06-04T06:50:23.147116+00:00"
+      }
+    ],
     "summary": "",
-    "message_count": 0,
-    "last_file": null,
+    "message_count": 6,
+    "last_file": "main.txt",
     "subject": "chemistry",
-    "saved_at": "2026-05-27T17:46:21.382586"
+    "saved_at": "2026-06-04T06:51:57.404708"
   },
   "omar__physics_mechanic": {
     "username": "omar",
